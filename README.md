@@ -1,7 +1,3 @@
-## Explanation
-
-gif collector in Gamepedia
-
 ## Usage
 
 crawler:
